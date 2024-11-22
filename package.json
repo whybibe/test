@@ -1,0 +1,16 @@
+{
+  "name": "parcel-experiment",
+  "version": "1.0.0",
+  "description": "一个简单的npm包，用于学习使用npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build index.html"
+  },
+  "author": "why",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.30.0",
+    "parcel-bundler": "^1.12.5"
+  }
+}
